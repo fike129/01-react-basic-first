@@ -1,5 +1,5 @@
 # React + Vite
-
+Прохождение курса по азам React + Vite, изучение основ. В основном изучил основные для себя момента связанные с операторами, с переменными, с правильной стилизацией файлов CSS и т.д. В целом неплохо получается
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
